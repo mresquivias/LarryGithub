@@ -2,4 +2,4 @@
 
 Esta serie de libros cuentan la historia de un hacker de los que hay pocos.
 
-**Andrés Esquivias**, Git lover
+**Andrés Esquivias**, Git lover and Larry Plotter lover
